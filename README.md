@@ -1,8 +1,8 @@
-# Big-Ideas-Lab6
+# Lab6
+Trystin DeRemer, Aiden McCoy, Aidan Krieger
 
-Group Members: Sydney Wyman, Trystin DeRemer
+Our code tells you the complimentary color of the color you enter
 
-This program asks the user to enter a color from the rainbow. Their choices are red, orange, yellow, green, blue, and purple.
-If the user enters anything other than one of these colors, the program will tell the user the color choice is invalid and will prompt
-them for a color again. Once a valid color is entered, the program will print out a statement that says the color the user chose and 
-what the complimentary color is.
+Including is our code of conduct which includes our companies pledge, standards, scope, and enforcement. 
+
+It also including our company's copyright license that includes the terms and condictions.
