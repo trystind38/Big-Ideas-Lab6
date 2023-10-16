@@ -43,9 +43,7 @@ The complementary color for yellow is purple.
 
 The program will keep running until a valid color is chosen, ensuring a smooth user experience.
 
-Contributions
+## Contributions
 We welcome contributions to improve this project! Feel free to fork the repository, make your changes, and submit a pull request.
 
 If you encounter any issues or have suggestions, please open an issue on the GitHub repository.
-
-Happy coding! 🚀
